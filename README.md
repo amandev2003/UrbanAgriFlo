@@ -423,18 +423,6 @@ Specialization in IoT, Cyber Security & Blockchain
 
 ---
 
-## 🤝 Contributors
-
-**Shreya Tigga**
-Contributor
-
-**Dr. M. S. Murali Dhar**
-Project Supervisor
-
-**Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology**
-Chennai, India
-
----
 
 ## 📜 License
 
